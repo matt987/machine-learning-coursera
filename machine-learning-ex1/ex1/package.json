@@ -1,0 +1,14 @@
+{
+  "name": "emailing",
+  "description": "Microservice for Emailing on Pinbus.com",
+  "version": "0.0.1",
+  "author": "",
+  "repository":{
+    "private": true,
+  }
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [],
+  "scripts": {}
+}
